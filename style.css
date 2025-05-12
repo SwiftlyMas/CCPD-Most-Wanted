@@ -1,0 +1,36 @@
+body{background-color:#242a40}
+
+h1{color:#161616;
+font-family:Helvetica;
+font-size: 44px;
+background-color: #7ab8e4;
+text-align: center;}
+
+p{color:#F3F3F3; font-family: Helvetica; font-size: 23px;}
+
+a{text-decoration: none;
+color:#161616;
+font-family:Helvetica;
+font-size: 22px; }
+
+img{
+	display: block;
+	margin: auto;
+	border-style: double;
+	border-width: 3px;
+	border-color: #F6F9D3;
+}
+
+a:hover{
+	font-family: Futura;
+	font-size:28px;
+}
+
+li{list-style: none;
+	float: center;
+	padding:2px;
+	background-color: #dbd1b3;
+	border-style: double;
+
+ul{display: inline-block;}
+}
